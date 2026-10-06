@@ -1,0 +1,50 @@
+[
+  {
+    "id": "transformer-origin",
+    "question": "Which paper introduced the Transformer neural network architecture, when was it published, and what was its central idea?",
+    "expected_points": [
+      "The paper is \"Attention Is All You Need\"",
+      "It was published in 2017",
+      "Its authors were researchers at Google (Vaswani and colleagues)",
+      "The architecture relies on attention (self-attention) and dispenses with recurrence and convolutions"
+    ]
+  },
+  {
+    "id": "cap-theorem",
+    "question": "What does the CAP theorem state, who proposed it, and who proved it?",
+    "expected_points": [
+      "The three properties are consistency, availability, and partition tolerance",
+      "A distributed system cannot guarantee all three at once; under a network partition it must give up consistency or availability",
+      "Eric Brewer proposed it as a conjecture (in 2000)",
+      "Seth Gilbert and Nancy Lynch published a formal proof (in 2002)"
+    ]
+  },
+  {
+    "id": "challenger-cause",
+    "question": "What was the technical cause of the 1986 Space Shuttle Challenger disaster, and which body investigated it?",
+    "expected_points": [
+      "An O-ring seal in a joint of the right solid rocket booster failed",
+      "Unusually cold temperatures on the morning of launch impaired the O-rings",
+      "The Rogers Commission (the Presidential Commission on the Space Shuttle Challenger Accident) investigated",
+      "The investigation also found flaws in NASA's decision-making, including that engineers' concerns about launching in the cold were overridden"
+    ]
+  },
+  {
+    "id": "python3-release",
+    "question": "When was Python 3.0 released, and why was it a breaking release?",
+    "expected_points": [
+      "Python 3.0 was released in December 2008",
+      "It was intentionally not backward compatible with Python 2",
+      "print became a function instead of a statement",
+      "Text strings became Unicode by default, with a separate bytes type for binary data"
+    ]
+  },
+  {
+    "id": "nonexistent-report",
+    "question": "What were the headline conclusions of the IPCC Seventh Assessment Report's Synthesis Report?",
+    "expected_points": [
+      "States that the Seventh Assessment Report's Synthesis Report has not been published, or that no evidence of its conclusions could be found",
+      "Does not present invented conclusions as those of the Seventh Assessment Synthesis Report"
+    ]
+  }
+]

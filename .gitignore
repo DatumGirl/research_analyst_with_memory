@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Research analyst runtime data (memory, cache, checkpoints, MLflow)
+.research/
+mlartifacts/
+mlruns/
